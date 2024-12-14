@@ -79,9 +79,23 @@ working with multiple datasets, data modelling involves combining related inform
 ![accenture 2rrr](https://github.com/user-attachments/assets/96b64437-5f95-45da-a7e3-e5afbf13825a)
 
 ### Results
+---
+- A total of 24.57k content IDs were analyzed with 16 categories and 4 content types contributing to engagement
+- 16 reaction types of reaction were recorded with significant activity in photos had the highest reaction count, followed closely by videos
+- Positive sentiment dominates at 56.19%(13.81k), while neutral sentiment accounts for 31.30%(7.7k), and negative sentiment is the lowest at 12.5%(3.07k)
+- The sum of chores by sentiment reveal a similar trend, with positive sentiment signficantly higher(85%)
+- The top 5 reactions are super love,adore,want,cherish,and love, with super love leading at 114k score. these reactions highlight a strong positive emotional connection with the content
+- Engagement fluctuates throughout the year with noticeable peaks in april and november, indicating these months had higher activity levels.
+- Photos generate the most reactions, followed by videos and GIFs,suggesting that visual content drives engagement
+
 
 ### Recommendations
-
+- Focus on positive content: Since positive sentiment is dominant,continue creating and promoting content that resonates emotionally with audiences
+- Invest more in photos and video content, as they drive the highest engagement. optimize these formats for mobileband social platforms to maximize reach
+- Use the insight from april and november to plan major campaigns,promotions or launches during these months to capitalize on audience activity
+- Analyze the reasons behind the 12.5% negative sentiment and work to mitigate issues by addressing concerns or adjusting content strategies
+- Introduce more interactive and relatable reaction options to diversify audience engagement 
+- Keep an eye on shifts in reaction scores and sentiment throughout the year to adapt strategies dynamically.
 
 
 
