@@ -15,7 +15,7 @@ Table of contents
 
 [Data cleaning and preparation](#Data-cleaning-and-preparation)
 
-[Exploratory data analysis](#Exploratory-data-analysis)
+[key performance indicators ](#key-performance-indicators)
 
 [Data visualization](#Data-visualization)
 
