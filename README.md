@@ -69,7 +69,7 @@ Reaction type:
 ---
 working with multiple datasets, data modelling involves combining related information to create a unified structure for analysis. VLOOKUP was the used function in excel for merging the three dataset given with the common keys
 
-### Exploratory data analysis
+### Key performance indicators 
 ---
 - Top 5 performing categories
 - retrieve the count of category by sentiment
